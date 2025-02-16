@@ -19,5 +19,6 @@
 <img width="845" alt="Zrzut ekranu 2023-10-25 o 16 16 16" src="https://github.com/Viktor-Bor/TODO-with-Database/assets/84781451/6bd2c1ae-638e-4c6f-9956-52cda8b0b651">
 
 *When session become to finish - logout:
+
 <img width="685" alt="Zrzut ekranu 2023-10-25 o 16 16 24" src="https://github.com/Viktor-Bor/TODO-with-Database/assets/84781451/846db9e4-f92f-46d5-b82f-0c15915ae8e5">
 
